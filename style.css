@@ -1,0 +1,40 @@
+body{
+font-family:Arial;
+text-align:center;
+}
+
+#searchBar{
+width:300px;
+padding:10px;
+margin:20px;
+border-radius: 8px;
+}
+
+.products{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.product{
+border:2px solid #010f0652;
+padding:20px;
+margin:10px;
+width:150px;
+ border-radius: 8px;
+}
+button{
+    background:rgb(19, 128, 0);
+    color:rgb(7, 6, 3);
+    padding:10px;
+    border:none;
+    border-radius: 8px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 50px;
+}
+p{
+ background-color: rgb(225, 236, 17);
+}
